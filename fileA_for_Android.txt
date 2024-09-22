@@ -25,3 +25,5 @@
     "Tags": [ { "Key": "Name", "Value": "MyTag" } ]
   }
 }
+Kelly and Laureare attending from the same computer today?
+Hhdhdggd
